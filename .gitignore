@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+# Archivos de VSCode, PyCharm u otros IDEs
+.vscode/
+.idea/
+# Archivos grandes de embeddings o datos
+/data/*.json
+/embeddings/*.npy
