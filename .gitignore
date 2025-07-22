@@ -9,3 +9,4 @@ __pycache__/
 # Archivos grandes de embeddings o datos
 /data/*.json
 /embeddings/*.npy
+*.env
